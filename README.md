@@ -1,5 +1,5 @@
 <p float="left">
-<img src='purple.gif' width='220' align="left">
+<img src='purple.gif' width='210' align="left">
 <p float="left">
 
   👋 Hi! I'm Jannik~ (✿ ◕ᗜ◕)━♫.*･｡ﾟ \
