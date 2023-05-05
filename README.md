@@ -43,6 +43,9 @@
   ![Nextjs](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
   ![OpenAI](https://img.shields.io/static/v1?style=for-the-badge&message=Deep+Learning&color=412991&logo=OpenAI&logoColor=FFFFFF&label=)
 
+## Future learning goals
+  
+* ![Kubernetes](https://img.shields.io/static/v1?style=for-the-badge&message=Kubernetes&color=326CE5&logo=Kubernetes&logoColor=FFFFFF&label=)
 
 ## Connect with Me
 
