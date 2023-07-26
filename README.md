@@ -68,10 +68,10 @@
   media="(prefers-color-scheme: dark)"
 />
 <source
-  srcset="https://github-readme-stats-eight-ashy.vercel.app/api?username=schroeder-is&show_icons=true"
+  srcset="https://github-readme-stats-eight-ashy.vercel.app/api?username=jannik-schroeder&show_icons=true"
   media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
 />
-<img src="github-readme-stats-eight-ashy.vercel.app/api?username=schroeder-is&show_icons=true" />
+<img src="github-readme-stats-eight-ashy.vercel.app/api?username=jannik-schroeder&show_icons=true" />
 </picture>
   
 
