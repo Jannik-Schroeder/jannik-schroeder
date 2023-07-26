@@ -64,7 +64,7 @@
 
   <picture>
 <source
-  srcset="https://github-readme-stats-eight-ashy.vercel.app/api?username=schroeder-is&show_icons=true&theme=dark"
+  srcset="https://github-readme-stats-eight-ashy.vercel.app/api?username=jannik-schroeder&show_icons=true&theme=dark"
   media="(prefers-color-scheme: dark)"
 />
 <source
