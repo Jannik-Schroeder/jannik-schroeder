@@ -41,13 +41,15 @@
   ![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
   ![Replit](https://img.shields.io/badge/replit-667881?style=for-the-badge&logo=replit&logoColor=white) -->
 
+
 ## Learning
 
 * ![OpenAI](https://img.shields.io/static/v1?style=for-the-badge&message=Deep+Learning&color=412991&logo=OpenAI&logoColor=FFFFFF&label=)
+* ![Kubernetes](https://img.shields.io/static/v1?style=for-the-badge&message=Kubernetes&color=326CE5&logo=Kubernetes&logoColor=FFFFFF&label=)
 
 ## Future learning goals
   
-* ![Kubernetes](https://img.shields.io/static/v1?style=for-the-badge&message=Kubernetes&color=326CE5&logo=Kubernetes&logoColor=FFFFFF&label=)
+* ![Chef](https://img.shields.io/static/v1?style=for-the-badge&message=Chef&color=7FFF00&logo=Chef&logoColor=000000&label=)
 
 ## Connect with Me
 
