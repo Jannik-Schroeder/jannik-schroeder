@@ -1,7 +1,4 @@
 <div>
-<p float="left">
-<img src='purple.gif' width='210' align="left">
-<p float="left">
 
   👋 Hi! I'm Jannik~ (✿ ◕ᗜ◕)━♫.*･｡ﾟ \
   ❤ Nice to meet you
@@ -12,7 +9,7 @@
   🎵 I like to listen to music while working \
   ⚡ Fun fact: I'm as perceptive as a lynx 
  
->> Image from [here](https://i.pinimg.com/originals/10/d5/1a/10d51aa37731b05a5d085e15186e211c.gif) 
+
   
 
 <!-- https://github.com/Ileriayo/markdown-badges -->
