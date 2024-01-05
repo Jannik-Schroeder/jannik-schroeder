@@ -3,7 +3,7 @@
   👋 Hi! I'm Jannik~ (✿ ◕ᗜ◕)━♫.*･｡ﾟ \
   ❤ Nice to meet you
 
-  🌱 At the moment I am learning and working on: My Homelab, Docker, https://solun.pm \
+  🌱 At the moment I am working on: My Homelab \
   💬 Ask me about anything: even if it's not related to programming \
   💜 Interests: Martial Arts, New Technologies \
   🎵 I like to listen to music while working \
@@ -21,6 +21,7 @@
   ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
   ![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white)
   ![Docker](https://img.shields.io/static/v1?style=for-the-badge&message=Docker&color=2496ED&logo=Docker&logoColor=FFFFFF&label=)
+  ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 *  ![VSCOCE](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
  ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
 
@@ -43,7 +44,7 @@
 ## Learning
 
 * ![OpenAI](https://img.shields.io/static/v1?style=for-the-badge&message=Deep+Learning&color=412991&logo=OpenAI&logoColor=FFFFFF&label=)
-* ![Kubernetes](https://img.shields.io/static/v1?style=for-the-badge&message=Kubernetes&color=326CE5&logo=Kubernetes&logoColor=FFFFFF&label=)
+* ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
 
 ## Future learning goals
   
