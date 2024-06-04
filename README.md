@@ -15,6 +15,9 @@
 <!-- https://github.com/Ileriayo/markdown-badges -->
 </div>
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&lines=Touch+some+grass.)](https://git.io/typing-svg)
+
+
 ## Tech Stack
 
 * ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
