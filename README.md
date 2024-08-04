@@ -9,14 +9,7 @@
   🎵 I like to listen to music while working \
   ⚡ Fun fact: I'm as perceptive as a lynx 
  
-
-  
-
 <!-- https://github.com/Ileriayo/markdown-badges -->
-</div>
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&lines=Touch+some+grass.)](https://git.io/typing-svg)
-
 
 ## Tech Stack
 
