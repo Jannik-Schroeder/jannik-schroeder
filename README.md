@@ -56,26 +56,7 @@
 ## Connect with Me
 
   [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/372267836070166533)
-  [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/hijannikschrdr)
+  [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/jsde_me)
   [![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/tw9pp3qwu6w8d8jk45x0udcfp?si=1ae9768a4cdd41b5)
-
-## Support
-
-  <!-- ko-fi badge -->
-  if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈<br><br>
-  [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/hijannikschroeder)
-  <br><br>
-
-  <picture>
-<source
-  srcset="https://github-readme-stats-eight-ashy.vercel.app/api?username=jannik-schroeder&show_icons=true&theme=dark"
-  media="(prefers-color-scheme: dark)"
-/>
-<source
-  srcset="https://github-readme-stats-eight-ashy.vercel.app/api?username=jannik-schroeder&show_icons=true"
-  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-/>
-<img src="github-readme-stats-eight-ashy.vercel.app/api?username=jannik-schroeder&show_icons=true" />
-</picture>
   
 
